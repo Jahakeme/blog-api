@@ -9,7 +9,7 @@ A RESTful API for managing a blog platform with user authentication, posts, comm
 - **Comment System**: Add and manage comments on blog posts
 - **Admin Dashboard**: Special routes for administrative tasks
 - **Authentication**: JWT-based authentication with secure cookie storage
-- **Authorization**: Role-based access control for different operations
+- **Authorisation**: Role-based access control for different operations
 
 ## Technology Stack
 
@@ -113,7 +113,7 @@ A RESTful API for managing a blog platform with user authentication, posts, comm
 
 | Variable | Description | Example |
 |----------|-------------|---------|
-| MONGODB | MongoDB connection string | `mongodb+srv://username:password@cluster.mongodb.net/database` |
+| MONGODB | MongoDB connection string | Refer to MongoDB docs for this |
 | PORT | Port the server will run on | `5000` |
 | JWT_SECRET | Secret key for JWT signing | `your-secret-key` |
 | JWT_EXPIRE | JWT token expiration time | `3h` |
