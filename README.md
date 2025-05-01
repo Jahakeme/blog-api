@@ -262,7 +262,7 @@ The API uses a global error handler middleware that formats error responses cons
 
 ## License
 
-This project is licensed under the ISC License.
+This project is licensed under the MIT License.
 
 ## Contributing
 
